@@ -1,6 +1,6 @@
 <?php 
 
-   $db_name = 'mysql:host=localhost;dbname=reviews';
+   $db_name = 'mysql:host=localhost;dbname=review';
    $db_user_name = 'root';
    $db_user_pass = '';
 
